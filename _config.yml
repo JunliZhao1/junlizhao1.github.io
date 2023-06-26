@@ -83,11 +83,11 @@ author:
   name             : "Junli Zhao"
   avatar           : "IMG_0565_crop.jpg"
   bio              : 
-  location         : "London, UK"
+  location         : 
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : #"junli.zhao@city.ac.uk"
+  email            : "junli.zhao[at]city.ac.uk"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
