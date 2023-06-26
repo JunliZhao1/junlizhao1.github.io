@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Junli Zhao"
   avatar           : "profile.png"
-  bio              : "Lecturer in Finance at Bayes Business School, City University of London, interested in asset management and economics of ML/AL"
+  bio              : 
   location         : "London, UK"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "junli.zhao[at]city.ac.uk"
+  email            : #"junli.zhao@city.ac.uk"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -178,7 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
