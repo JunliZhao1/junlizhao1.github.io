@@ -12,4 +12,4 @@ redirect_from:
 ---
 
 
-[Find my CV here](files/ZHAOJunliCV_2023.pdf)
+[Find my CV here](https://junlizhao1.github.io/files/ZHAOJunliCV_2023.pdf)
