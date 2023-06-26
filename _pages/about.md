@@ -12,4 +12,6 @@ Welcome! I'm a lecturer ($\approx$ assistant professor) in Finance at Bayes Busi
 
 My research interests include asset management and the economics of data/learning. 
 
+Contact: junli.zhao[at]city.ac.uk
+
 
