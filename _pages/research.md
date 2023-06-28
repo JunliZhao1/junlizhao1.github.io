@@ -12,8 +12,8 @@ author_profile: true
 
 # Working papers
 
-## Sell-Side Research and Buy-Side Agency Issues [[SSRN link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3957601) (with Wei Zhao)
-
+## Sell-Side Research and Buy-Side Agency Issues (with Wei Zhao)
+ [[SSRN link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3957601)
 
 We show how sell-side research can make buy-side managers' moral hazard issues more severe.
 
@@ -21,7 +21,8 @@ We show how sell-side research can make buy-side managers' moral hazard issues m
 <br />
 
 
-## Who benefits (more) from the growth of data? [[SSRN link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4260838) 
+## Who Benefits (More) from the Growth of Data? 
+[[SSRN link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4260838) 
 
 Financial institutions do not benefit equally when the amount of data increases. It depends on the type of data and institutions'/analysts'  relative advantages.
 
