@@ -4,11 +4,6 @@ permalink: /research/
 author_profile: true
 
 ---
-
-<br />
-<br />
-
-
 # Working papers
 
 ## Sell-Side Research and Buy-Side Agency Issues 
