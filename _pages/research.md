@@ -12,8 +12,8 @@ author_profile: true
 
 # Working papers
 
-## Sell-Side Research and Buy-Side Agency Issues (with Wei Zhao)
- [[SSRN link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3957601)
+## Sell-Side Research and Buy-Side Agency Issues 
+(with Wei Zhao) [[SSRN link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3957601) 
 
 We show how sell-side research can make buy-side managers' moral hazard issues more severe.
 
@@ -33,14 +33,14 @@ Financial institutions do not benefit equally when the amount of data increases.
 
 # Work in progress
 
-## Working with Machines (with Jean-Edouard Colliard)
+## Working with Machines 
+(with Jean-Edouard Colliard)
 
+## Who Pays for Information? 
+(with Giovanni Cespa and Wei Zhao)
 
-## Who Pays for Information? (with Giovanni Cespa and Wei Zhao)
-
-
-## What do Machines Learn? (with Jin Guo)
-
+## What do Machines Learn? 
+(with Jin Guo)
 <br />
 
 # Inactive working paper
