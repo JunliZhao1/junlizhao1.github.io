@@ -35,7 +35,9 @@ Financial institutions do not benefit equally when the amount of data increases.
 
 ## Working with Machines (with Jean-Edouard Colliard)
 
+
 ## Who Pays for Information? (with Giovanni Cespa and Wei Zhao)
+
 
 ## What do Machines Learn? (with Jin Guo)
 
