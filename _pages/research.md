@@ -23,17 +23,18 @@ We demonstrate that firms' sustainability talks can be impactful even if they ar
 
 <br />
 
+**Sell-Side Research and Buy-Side Agency Issues** (with Wei Zhao) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3957601)  
+
+We show how sell-side research exacerbates the moral hazard issues faced by buy-side managers.
+
+<br />
+
 **The Value of Payment Innovation to Households** (With Weilong Zhang and Yapei Zhang)  
 
 New draft soon.
 
 <br />
 
-**Sell-Side Research and Buy-Side Agency Issues** (with Wei Zhao) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3957601)  
-
-We show how sell-side research can make buy-side managers' moral hazard issues more severe.
-
-<br />
 
 **Who Benefits (More) from the Growth of Data?** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4260838)  
 
