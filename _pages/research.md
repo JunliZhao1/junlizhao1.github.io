@@ -45,8 +45,6 @@ Financial institutions do not benefit equally when the amount of data increases.
 
 **Who Pays for Information?** (with Giovanni Cespa and Wei Zhao)
 
-<br />
-
 **Firms as Risk Monopolies** (with Jin Guo, Rouzhi Wang)
 
 <br />
