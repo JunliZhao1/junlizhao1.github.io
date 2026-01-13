@@ -12,7 +12,7 @@ author_profile: true
 
 (Revise and Resubmit at *Management Science*) 
 
-We analyze how the advancement of AI affects the task allocation and the rents of finance workers.
+We analyze how advancements in AI affect the task allocation and rents of finance workers.
 
 <br />
 
