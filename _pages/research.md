@@ -34,6 +34,8 @@ Evidence from Payment-Integrated Money Market Funds** (With Weilong Zhang and Ya
 
 We study how Fintech innovation affects Financial inclusion. 
 
+(Earlier version: The Value of Payment Innovation to Households: Evidence from a FinTech Platform)
+
 
 
 
