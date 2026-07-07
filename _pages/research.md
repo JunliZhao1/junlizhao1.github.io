@@ -29,9 +29,10 @@ We show how sell-side research exacerbates the moral hazard issues faced by buy-
 
 
 
-**The Value of Payment Innovation to Households** (With Weilong Zhang and Yapei Zhang)  
+**Fintech Innovation and Financial Inclusion: 
+Evidence from Payment-Integrated Money Market Funds** (With Weilong Zhang and Yapei Zhang)[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5332427)  
 
-New draft soon.
+We study how Fintech innovation affects Financial inclusion. 
 
 
 
@@ -50,5 +51,3 @@ Financial institutions do not benefit equally when the amount of data increases.
 
 <br />
 
-# Inactive working paper
-Financial Advisors in the Private Market
